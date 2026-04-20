@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Trip to Goa",
+    "content": "Beautiful beaches and sunsets"
+  },
+  {
+    "id": 2,
+    "title": "Himalayan Adventure",
+    "content": "Snow and serenity"
+  },
+  {
+    "id": 3,
+    "title": "Kerala Trip",
+    "content": "Backwaters and peace"
+  },
+  {
+    "id": 4,
+    "title": "Ladakh Ride",
+    "content": "High altitude adventure"
+  }
+]
