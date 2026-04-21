@@ -41,5 +41,11 @@ POST /api/posts
 - Phase 2: Persistence + PM2 ✅
 - Phase 3: Docker (Next)
 
+## 🐳 Docker Setup
+
+Run full system:
+
+docker-compose up --build
+
 ## 👨‍💻 Author
 Umesh Chandra
